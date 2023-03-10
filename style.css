@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:ital,wght@0,300;0,700;1,100&display=swap');
+
+h1{
+    background-color: darkturquoise;
+    font-size: xx-large;
+    font-family:'Lobster', cursive;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(162, 167, 137);
+}
+
+a{
+    background-color: rgb(181, 204, 50);
+}
+
+.text-content{
+    font-size: large;
+}
+
+.title-content{
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+#titolo-principale{
+    color: darkcyan;
+}
+
+h4,h5 {
+    color: coral;
+    font-size: large;
+
+}
+.titolone {
+    width: 500px;
+    height: 20%;
+    -webkit-box-shadow: 5px 5px 9px 5px rgba(74,241,255,0.81); 
+box-shadow: 5px 5px 9px 5px rgba(74,241,255,0.81);
+}
+
+.mamma{
+    background-color: darkorange;
+    width: 600px;
+}
+.figlia{
+    background-color: beige;
+    width: 50%;
+    height: 80px;
+    overflow: hidden;
+}
+.primo{
+    background-color: rgb(228, 50, 183);
+    padding: 18px;
+
+}
+
+.secondo{
+    background-color: brown;
+    margin: 20px 60px;
+}
+
+.terzo{
+    height: 400px;
+    width: 400px;
+    border: solid 8px rebeccapurple;
+    border-radius: 16px;
+    /* border-top-left-radius: 6px; */
+    border-radius: 16px 8px;
+    background-image: url("./assets/rana-di-vetro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.quarto{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 37%, rgba(0,212,255,1) 100%); ;
+    display: inline-block;
+    color: white;
+    height: 60px;
+    width: 80px;
+    padding: 5%;
+
+}
+
+.quinto{
+    background-color: violet;
+    display: inline;
+
+    
+}
+
+
+
